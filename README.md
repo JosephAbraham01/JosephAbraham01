@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a recent BSc Computer Science with AI gradute. I have experience with Full-Stack, Data Science, Cloud Computing and Machine Learning. Looking to get into software engineering and meet other fellow programmers.
+I'm a recent BSc Computer Science with AI graduate. I have experience with Full-Stack, Data Science, Cloud Computing and Machine Learning. Looking to get into software engineering and meet other fellow programmers.
 
 
 ## 🌐 Socials:
